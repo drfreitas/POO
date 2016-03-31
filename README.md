@@ -1,2 +1,3 @@
 # POO
-Diego
+Diego Rocha
+Aprendendo
